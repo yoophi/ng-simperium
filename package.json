@@ -1,0 +1,24 @@
+{
+  "name": "ng-simperium",
+  "version": "0.0.1",
+  "description": "Simperium for AngularJS",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-coffee": "^2.3.2",
+    "gulp-util": "^3.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoophi/ng-simperium.git"
+  },
+  "author": "Pyunghyuk Yoo <yoophi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoophi/ng-simperium/issues"
+  },
+  "homepage": "https://github.com/yoophi/ng-simperium#readme"
+}
